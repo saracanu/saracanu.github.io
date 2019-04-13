@@ -1,22 +1,23 @@
 # ----
 # Site
 
-title: Aperture Template
+title: Sara
 url: "https://cosmic-hippopotamus.cloudvent.net"
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Photography portfolio template for Jekyll.
+description:
 author:
   name:
-  email:
+  email: canu.sara.01@gmail.com
   twitter: # twitter username without the @ symbol
+  instagram: sara_canu_
 social:
-  name: Aperture Template
+  name: Sara
   links:
-    - https://github.com/CloudCannon/aperture-jekyll-template
+    - https://saracanu.github.io/
 
 # -----
 # Build
